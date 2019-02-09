@@ -7856,7 +7856,7 @@ header {
     .btn.btn-primary:hover {
       border: 1px solid #121212;
       background: transparent;
-      color: #121212; }
+      color: #ffff; }
     .btn.btn-primary.btn-outline-primary {
       border: 1px solid #2f89fc;
       background: transparent;
